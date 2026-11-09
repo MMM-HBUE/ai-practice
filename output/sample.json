@@ -1,0 +1,14 @@
+{
+  "revenue": 128.64,
+  "net_profit": 9.82,
+  "npl_ratio": null,
+  "provision_coverage": null,
+  "nim": null,
+  "core_tier1_capital": null,
+  "missing": [
+    "npl_ratio",
+    "provision_coverage",
+    "nim",
+    "core_tier1_capital"
+  ]
+}
