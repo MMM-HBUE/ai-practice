@@ -6,6 +6,9 @@
 - Python 3.15（虚拟环境 .venv，不纳入版本管理）
 - DeepSeek API（Key 存于本地 .env，不提交）
 
+## 安装
+pip install -r requirements.txt
+
 ## 内容
 - hello.py —— DeepSeek API 连通性测试
 - extract.py —— 财报指标抽取：读文本，输出 JSON 到 output/
